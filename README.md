@@ -84,6 +84,9 @@ Please refer to `exp/README.md` for detailed instructions
 
 ## Install
 
+(***NOTE***: you MUST have a GPU available for installing torch GPU ver in requirements.txt)
+
+
 ```bash
 git clone https://github.com/grxiao137/CENTS.git && cd CENTS
 
