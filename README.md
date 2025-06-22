@@ -87,8 +87,8 @@ Please refer to `exp/README.md` for detailed instructions
 ```bash
 git clone https://github.com/grxiao137/CENTS.git && cd CENTS
 
-python -m venv .venv
-source .venv/bin/activate
+conda create -n cents python=3.12
+conda activate cents
 
 pip install -e .
 pip install -r exp/requirements.txt
