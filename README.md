@@ -84,7 +84,7 @@ Please refer to `exp/README.md` for detailed instructions
 
 ## Install
 
-(***NOTE***: you MUST have a GPU available for installing torch GPU ver in requirements.txt)
+(***NOTE***: you MUST have a GPU available for installing torch GPU ver in requirements.txt, but if you only want to try GPT series, comment out the last few lines in `exp/requirements.txt` that are torch related.)
 
 
 ```bash
